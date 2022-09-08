@@ -9,3 +9,48 @@
 # About Me
 I am 21 years old. At the moment I am a student. I am fond of programming and mathematics. In my free time I like to draw portraits and play board games.
 I'm here because I want to become a front-end developer.
+
+* My strengths:
++ Sociable
++ Honesty
++ Flexibility
++ Organization
++ Industriousness
+
+# Skills
+* HTML
+* JavaScript
+* Version control: Git (remote service GitHub)
+* VS Code
+
+# Code Example
+```html
+function accum(s) {
+s = s.toUpperCase().split('');
+
+const str = s.reduce((total, amunt, index) => {
+let array = new Array(index+1)
+return String(array.fill(amunt)).toLowerCase().join('')
+});
+return str;
+}
+```
+```html
+function reverseWords(str) {
+str = str.split(' ');
+
+const string = str.reduce((acc, accum, index) => {
+return acc + ' ' + accum.split('').reverse().join('');
+}, '')
+return string.slice(1);
+}
+```
+# Education
+* Gomel State University named after Francysk Skaryna
++ Faculty of Mathematics and Programming Technologies
+- Economic cybernetics (mathematical methods and computer modeling in economics)
+* Course IBA Group 2020 ”Fundamentals of project management in the field of information technology”
+
+# Languages
+* Russian - native speaker.
+* English - A2
