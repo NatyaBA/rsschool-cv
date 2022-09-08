@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/NatyaBA/rsschool-cv
