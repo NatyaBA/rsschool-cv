@@ -47,8 +47,8 @@ return string.slice(1);
 ```
 # Education
 * Gomel State University named after Francysk Skaryna
-+ Faculty of Mathematics and Programming Technologies
-- Economic cybernetics (mathematical methods and computer modeling in economics)
+    + Faculty of Mathematics and Programming Technologies
+        - Economic cybernetics (mathematical methods and computer modeling in economics)
 * Course IBA Group 2020 ”Fundamentals of project management in the field of information technology”
 
 # Languages
