@@ -11,11 +11,11 @@ I am 21 years old. At the moment I am a student. I am fond of programming and ma
 I'm here because I want to become a front-end developer.
 
 * My strengths:
-+ Sociable
-+ Honesty
-+ Flexibility
-+ Organization
-+ Industriousness
+    + Sociable
+    + Honesty
+    + Flexibility
+    + Organization
+    + Industriousness
 
 # Skills
 * HTML
