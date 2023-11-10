@@ -8,3 +8,40 @@
 
 # About Me
 Hello, my name is Nastya. I'm from Gomel and I'm 22 years old. At the moment I am a junior front-end developer. I like programming and exact sciences. I prefer to spend my free time drawing portraits, knitting and playing board games. I'm here because I want to expand my programming knowledge
+
+* My strengths:
+    + Sociable
+    + Honesty
+    + Flexibility
+    + Organization
+    + Industriousness
+
+# Skills
+* HTML
+* JavaScript
+* Version control: Git (remote service GitHub)
+* VS Code
+* Nest js
+
+# Code Example
+```html
+function accum(s) {
+s = s.toUpperCase().split('');
+
+const str = s.reduce((total, amunt, index) => {
+let array = new Array(index+1)
+return String(array.fill(amunt)).toLowerCase().join('')
+});
+return str;
+}
+```
+```html
+function reverseWords(str) {
+str = str.split(' ');
+
+const string = str.reduce((acc, accum, index) => {
+return acc + ' ' + accum.split('').reverse().join('');
+}, '')
+return string.slice(1);
+}
+```
